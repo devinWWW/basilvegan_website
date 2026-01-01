@@ -56,7 +56,7 @@ const Locations: React.FC = () => {
 
             <div className="space-y-2 sm:space-y-3">
               <a
-                href="https://rewards.vegansushilv.com/book/basil"
+                href="https://www.basilveganthai.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="min-h-[44px] flex items-center justify-center w-full bg-secondary-orange hover:bg-opacity-90 text-white font-body font-semibold px-4 sm:px-6 py-2.5 sm:py-3 rounded-lg text-center transition-all sm:transform sm:hover:scale-105 shadow-lg text-sm sm:text-base"
@@ -115,7 +115,7 @@ const Locations: React.FC = () => {
 
             <div className="space-y-2 sm:space-y-3">
               <a
-                href="https://rewards.vegansushilv.com/book/daikon"
+                href="https://tables.toasttab.com/restaurants/95c14348-a3ae-4de8-a7b2-15c5d41b0e11/findTime"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="min-h-[44px] flex items-center justify-center w-full bg-secondary-orange hover:bg-opacity-90 text-white font-body font-semibold px-4 sm:px-6 py-2.5 sm:py-3 rounded-lg text-center transition-all sm:transform sm:hover:scale-105 shadow-lg text-sm sm:text-base"

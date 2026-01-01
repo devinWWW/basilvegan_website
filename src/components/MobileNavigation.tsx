@@ -34,7 +34,7 @@ const MobileNavigation: React.FC = () => {
     },
     {
       name: 'Book',
-      path: 'https://rewards.vegansushilv.com/book/basil',
+      path: 'https://basilveganthai.com',
       external: true,
       icon: (
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

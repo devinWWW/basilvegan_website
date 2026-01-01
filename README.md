@@ -97,7 +97,7 @@ npm run dev
 
 The site integrates with these external services:
 - **Menu/Order**: https://order.toasttab.com/online/basil-vegan-thai
-- **Reservations**: https://rewards.vegansushilv.com/book/basil
+- **Reservations**: https://basilveganthai.com
 - **Rewards**: https://rewards.vegansushilv.com/scan
 - **Gift Cards**: https://order.toasttab.com/egiftcards/basil-vegan-thai
 

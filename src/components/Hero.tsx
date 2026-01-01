@@ -46,7 +46,7 @@ const Hero: React.FC = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-5 md:gap-6 items-center justify-center px-2">
           <a
-            href="https://rewards.vegansushilv.com/book/basil"
+            href="https://basilveganthai.com"
             target="_blank"
             rel="noopener noreferrer"
             className="min-h-[56px] sm:min-h-[56px] flex items-center justify-center bg-secondary-orange hover:bg-secondary-orange/90 text-white font-body font-semibold px-10 sm:px-10 md:px-12 py-4 sm:py-4 md:py-4.5 rounded-lg text-lg sm:text-lg md:text-xl transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-secondary-orange focus:ring-offset-2 focus:ring-offset-transparent"

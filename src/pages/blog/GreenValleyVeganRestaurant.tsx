@@ -168,7 +168,7 @@ const GreenValleyVeganRestaurant: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://rewards.vegansushilv.com/book/basil"
+                href="https://basilveganthai.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-secondary-orange hover:bg-opacity-90 text-white font-body font-bold px-6 py-3 rounded-lg text-center transition-all transform hover:scale-105"

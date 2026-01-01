@@ -88,7 +88,7 @@ const MenuHighlights: React.FC = () => {
               Order Online
             </a>
             <a
-              href="https://rewards.vegansushilv.com/book/basil"
+              href="https://basilveganthai.com"
               target="_blank"
               rel="noopener noreferrer"
               className="min-h-[44px] flex items-center justify-center font-body font-semibold px-6 sm:px-8 md:px-10 py-3 sm:py-3.5 md:py-4 rounded-lg text-sm sm:text-base md:text-lg transition-all duration-300 sm:transform sm:hover:scale-105 shadow-lg bg-primary-teal text-white hover:bg-opacity-90 focus:outline-none focus:ring-2 focus:ring-primary-teal focus:ring-offset-2"
