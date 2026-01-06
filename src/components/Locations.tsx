@@ -56,7 +56,7 @@ const Locations: React.FC = () => {
 
             <div className="space-y-2 sm:space-y-3">
               <a
-                href="https://www.basilveganthai.com/"
+                href="https://tables.toasttab.com/restaurants/a4a4b733-46d7-4ab4-875d-fbcedafc13ca/findTime"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="min-h-[44px] flex items-center justify-center w-full bg-secondary-orange hover:bg-opacity-90 text-white font-body font-semibold px-4 sm:px-6 py-2.5 sm:py-3 rounded-lg text-center transition-all sm:transform sm:hover:scale-105 shadow-lg text-sm sm:text-base"

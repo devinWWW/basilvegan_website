@@ -168,7 +168,7 @@ const GreenValleyVeganRestaurant: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://basilveganthai.com"
+                href="https://tables.toasttab.com/restaurants/a4a4b733-46d7-4ab4-875d-fbcedafc13ca/findTime"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-secondary-orange hover:bg-opacity-90 text-white font-body font-bold px-6 py-3 rounded-lg text-center transition-all transform hover:scale-105"
