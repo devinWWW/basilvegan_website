@@ -46,7 +46,7 @@ const Navbar: React.FC = () => {
   const navLinks = useMemo(() => [
     { name: 'About', path: '/about' },
     { name: 'Menu', path: 'https://order.toasttab.com/online/basil-vegan-thai', external: true },
-    { name: 'Reservation', path: 'https://basilveganthai.com', external: true },
+    { name: 'Reservation', path: 'https://tables.toasttab.com/restaurants/a4a4b733-46d7-4ab4-875d-fbcedafc13ca/findTime', external: true },
     { name: 'Gift Card', path: 'https://order.toasttab.com/egiftcards/basil-vegan-thai', external: true },
   ], []);
 

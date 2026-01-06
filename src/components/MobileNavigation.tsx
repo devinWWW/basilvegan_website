@@ -34,7 +34,7 @@ const MobileNavigation: React.FC = () => {
     },
     {
       name: 'Book',
-      path: 'https://basilveganthai.com',
+      path: 'https://tables.toasttab.com/restaurants/a4a4b733-46d7-4ab4-875d-fbcedafc13ca/findTime',
       external: true,
       icon: (
         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
