@@ -22,7 +22,7 @@ const Promotions: React.FC = () => {
       seasonal: true,
       cta: {
         text: 'Join Rewards',
-        link: 'https://rewards.vegansushilv.com/scan',
+        link: 'https://www.toasttab.com/basil-vegan-thai/rewardsSignup',
         external: true
       }
     },
@@ -33,7 +33,7 @@ const Promotions: React.FC = () => {
       description: 'Sign up for our rewards program and receive FREE Thai Iced Tea + Golden State Roll when you spend $75 or more. Earn points with every purchase and unlock exclusive benefits.',
       cta: {
         text: 'Join Now',
-        link: 'https://rewards.vegansushilv.com/scan',
+        link: 'https://www.toasttab.com/basil-vegan-thai/rewardsSignup',
         external: true
       }
     },
